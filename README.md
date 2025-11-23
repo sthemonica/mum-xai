@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/PyTorch-1.12+-EE4C2C?logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/CUDA-Supported-76B900?logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/License-CC--BY--NC--SA%204.0-green" />
+  <img src="https://zenodo.org/badge/DOI/10.5072/zenodo.406962.svg" />
 </p>
 
 
