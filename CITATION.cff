@@ -1,0 +1,22 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Premebida
+    given-names: Sthefanie Monica
+    orcid: https://orcid.org/0000-0002-8964-2119
+
+  - family-names: Ribeiro Martins
+    given-names: Marcella Scoczynski
+    orcid: https://orcid.org/0000-0002-5716-4968
+
+  - family-names: dos Santos
+    given-names: Paulo Victor
+    orcid: https://orcid.org/0000-0002-8267-7562
+
+  - family-names: Wiedemann
+    given-names: Philipp
+    orcid: https://orcid.org/0000-0003-0946-4656
+
+title:sthemonica/mum-xai: MUM-XAI v1.0.0 — First Stable Release
+version: v1.0
+date-released: 2025-11-23
